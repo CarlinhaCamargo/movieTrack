@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  MovieTrack
+
+  Created by Carla de Oliveira Camargo on 05/12/17.
+  Copyright © 2017 Carla de Oliveira Camargo. All rights reserved.
+*/
+
+//MARK: Generic
+
+
+//MARK: Requests
+"baseURLValue"= "baseURL";
+"apikeyValue"= "APIkey";
+"apikeyName"= "apikey=";
+"getMovieByID" = "getMovieByID";
+"movieSearch" = "movieSearch";
+"idMarker" = "{id}";
+"termMarker" = "{term}";
+
+//MARK: SavedMovies and Search
+"favorites" = "Favoritos";
+"placeholderSearch" = "Procure um filme";
+
+//MARK: CoreData related
+"entityMovieName" = "Movie";
+"entityAttributeID" = "id";
+"entityAttributeName" = "name";
+"entityAttributeBanner" = "banner";
+"errorFetching" = "Could not fetch.";
+"errorSaving" = "";

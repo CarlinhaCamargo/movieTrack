@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseURL</key>
+	<string>http://www.omdbapi.com/</string>
+	<key>APIkey</key>
+	<string>7130dc5a</string>
+	<key>movieSearch</key>
+	<string>s={term}</string>
+	<key>getMovieByID</key>
+	<string>i={id}</string>
+</dict>
+</plist>

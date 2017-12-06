@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MTDetailsViewController.getMovieInfo():MTDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ListViewCell.configCell(_:):ListViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movie.value(forKeyPath: &quot;banner&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MTSavedMoviesViewController.tableView(_:cellForRowAt:):MTSavedMoviesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchedMovies?.searchResult">
+            </PersistentString>
+            <PersistentString
+               value = "savedMovies">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RequestManager.requestMovieByTerm(_:completionSucess:completionError:):RequestManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MTSavedMoviesViewController.filterContentForSearchText(_:):MTSavedMoviesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FavoritesViewController.tableView(_:cellForRowAt:):FavoritesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell ?? UITableViewCell()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MTSavedMoviesViewController.prepare(for:sender:):MTSavedMoviesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender as! NSIndexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
